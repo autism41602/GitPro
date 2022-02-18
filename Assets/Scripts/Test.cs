@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
 {
     private Image _image;
 
-    private string name = "first";
+    private string name = "Third";
 
     // Start is called before the first frame update
     void Start()
